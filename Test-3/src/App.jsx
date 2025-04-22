@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { TaskProvider } from './context/TaskContext';
 import Home from './pages/Home';
 import AddTask from './pages/AddTask';
-
+ 
 const App = () => {
   return (
     <Router>
